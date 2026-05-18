@@ -25,3 +25,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
   * f1
   * f2
   * f3
+
+![https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg]
+
+*esto* es -un texto-
